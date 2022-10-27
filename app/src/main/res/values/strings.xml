@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">List Mahasiswa</string>
+
+
+    <array name="image">
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/pria</item>
+        <item>@drawable/wanita</item>
+    </array>
+
+</resources>
